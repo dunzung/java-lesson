@@ -8,7 +8,7 @@ package com.dunzung.demo.algorithm;
 public class 字典序 {
 
     public static void main(String[] args) {
-        String numStr = "358768";
+        String numStr = "358764";
         char[] chs = numStr.toCharArray();
         // 从右至左找到第一个左边小于右边的索引位置
         int leftInd = findLeftNumIndex(chs);
