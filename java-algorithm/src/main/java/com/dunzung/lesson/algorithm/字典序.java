@@ -1,4 +1,4 @@
-package com.dunzung.demo.algorithm;
+package com.dunzung.lesson.algorithm;
 
 /**
  * @author Wooola
