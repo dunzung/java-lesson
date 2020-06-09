@@ -1,4 +1,4 @@
-package com.dunzung.lesson.basic;
+package com.dunzung.lesson.basic.thread;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -11,7 +11,7 @@ import java.util.concurrent.Executors;
  * @link zhijund@163.com
  * @since 2020/6/5
  */
-public class ThreadTests {
+public class ThreadPoolTests {
 
     static final int THREADS = 5;
 
