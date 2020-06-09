@@ -1,4 +1,4 @@
-package com.dunzung.lesson.basic.designpattern;
+package com.dunzung.lesson.designpattern;
 
 /**
  * @author Wooola

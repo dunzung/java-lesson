@@ -1,4 +1,4 @@
-package com.dunzung.lesson.basic.thread;
+package com.dunzung.lesson.thread;
 
 import java.util.ArrayList;
 import java.util.Collections;

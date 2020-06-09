@@ -8,7 +8,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>java-basic</module>
-        <module>java-algorithm</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>

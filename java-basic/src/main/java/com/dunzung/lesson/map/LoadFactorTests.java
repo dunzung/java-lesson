@@ -1,4 +1,4 @@
-package com.dunzung.lesson.basic.map;
+package com.dunzung.lesson.map;
 
 import java.util.HashMap;
 import java.util.Map;
