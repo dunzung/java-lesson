@@ -10,10 +10,10 @@
 //public class StreamDemo {
 //
 //    public static void main(String[] args) {
-////        Stream<String> s = Stream.of("test", "t1", "t2", "teeeee", "aaaa");
+////        Stream<String> s = Stream.of("file", "t1", "t2", "teeeee", "aaaa");
 ////        s.flatMap(n -> Stream.of(n.split(""))).forEach(System.out::println);
 //
-//        Stream<String> s = Stream.of("test", "t1", "t2", "teeeee", "aaaa");
+//        Stream<String> s = Stream.of("file", "t1", "t2", "teeeee", "aaaa");
 //        s.map(n -> n.concat(".txt")).forEach(System.out::println);
 //    }
 //
