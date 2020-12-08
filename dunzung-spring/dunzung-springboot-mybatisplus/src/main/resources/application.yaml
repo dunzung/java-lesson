@@ -1,0 +1,13 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: dunzung-springboot-02
+  profiles:
+    active: dev
+
+#Mybatis配置
+#mybatis-plus:
+#  type-aliases-package: com.dunzung.java.spring.mapper
+#  mapper-locations: classpath:mapper/*.xml
