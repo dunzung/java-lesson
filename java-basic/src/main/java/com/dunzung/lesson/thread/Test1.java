@@ -13,7 +13,9 @@ public class Test1 {
     public static void main(String[] args) {
         System.out.println(COUNT_BITS);
 
+
         int CAPACITY   = (3 << COUNT_BITS) - 1;
+        System.out.println(Integer.MAX_VALUE);
         System.out.println(CAPACITY);
         add();
     }
