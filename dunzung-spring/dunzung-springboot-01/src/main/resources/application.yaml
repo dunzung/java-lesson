@@ -1,0 +1,6 @@
+server:
+  port: 9001
+
+spring:
+  application:
+    name: dunzung-springboot-01
