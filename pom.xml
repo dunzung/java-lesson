@@ -12,7 +12,7 @@
         <relativePath/>
     </parent>
     <modules>
-        <module>dunzung-java-basic</module>
+        <module>dunzung-java</module>
         <module>dunzung-spring</module>
     </modules>
     <dependencyManagement>
